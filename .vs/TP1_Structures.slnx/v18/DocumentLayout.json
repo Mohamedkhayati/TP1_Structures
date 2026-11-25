@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmfactoriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmfactoriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmtableaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmtableaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmaccueil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmaccueil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmtableaux.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmtableaux.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmscore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmscore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmjeu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmjeu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmtableaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmtableaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmfactoriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmfactoriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|c:\\users\\moham\\source\\repos\\tp1_structures\\tp1_structures\\frmfactoriel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52457C5-C54D-476A-A1AB-932F8F8944F9}|TP1_Structures\\TP1_Structures.csproj|solutionrelative:tp1_structures\\frmfactoriel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmFactoriel.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmFactoriel.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmFactoriel.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmFactoriel.cs",
+              "RelativeToolTip": "TP1_Structures\\frmFactoriel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:48:40.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmScore.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmScore.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmScore.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmScore.cs",
+              "RelativeToolTip": "TP1_Structures\\frmScore.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:48:29.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmJeu.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmJeu.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmJeu.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmJeu.cs",
+              "RelativeToolTip": "TP1_Structures\\frmJeu.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:48:19.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTableaux.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmTableaux.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmTableaux.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmTableaux.cs",
+              "RelativeToolTip": "TP1_Structures\\frmTableaux.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:48:05.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAccueil.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmAccueil.Designer.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmAccueil.Designer.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmAccueil.Designer.cs",
+              "RelativeToolTip": "TP1_Structures\\frmAccueil.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:28:21.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmScore.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmScore.Designer.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmScore.Designer.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmScore.Designer.cs",
+              "RelativeToolTip": "TP1_Structures\\frmScore.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:29:17.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTableaux.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmTableaux.Designer.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmTableaux.Designer.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmTableaux.Designer.cs",
+              "RelativeToolTip": "TP1_Structures\\frmTableaux.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAkwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:28:53.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAccueil.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmAccueil.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmAccueil.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmAccueil.cs",
+              "RelativeToolTip": "TP1_Structures\\frmAccueil.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:35:22.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAccueil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmAccueil.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmAccueil.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmAccueil.cs [Design]",
+              "RelativeToolTip": "TP1_Structures\\frmAccueil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:27:00.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmJeu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmJeu.Designer.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmJeu.Designer.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmJeu.Designer.cs",
+              "RelativeToolTip": "TP1_Structures\\frmJeu.Designer.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:29:05.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmJeu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmJeu.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmJeu.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmJeu.cs [Design]",
+              "RelativeToolTip": "TP1_Structures\\frmJeu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:43:09.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTableaux.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmTableaux.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmTableaux.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmTableaux.cs [Design]",
+              "RelativeToolTip": "TP1_Structures\\frmTableaux.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:41:23.346Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmFactoriel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmFactoriel.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmFactoriel.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmFactoriel.cs [Design]",
+              "RelativeToolTip": "TP1_Structures\\frmFactoriel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:39:05.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmFactoriel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmFactoriel.Designer.cs",
+              "RelativeDocumentMoniker": "TP1_Structures\\frmFactoriel.Designer.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TP1_Structures\\TP1_Structures\\frmFactoriel.Designer.cs",
+              "RelativeToolTip": "TP1_Structures\\frmFactoriel.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:28:43.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
